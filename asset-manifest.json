@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/task3/static/css/main.7d2a1c34.css",
+    "main.js": "/task3/static/js/main.50729f0b.js",
+    "static/media/apptechknowlogo.jpeg": "/task3/static/media/apptechknowlogo.a4c8a7717ac5cb9fd7ad.jpeg",
+    "index.html": "/task3/index.html",
+    "main.7d2a1c34.css.map": "/task3/static/css/main.7d2a1c34.css.map",
+    "main.50729f0b.js.map": "/task3/static/js/main.50729f0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d2a1c34.css",
+    "static/js/main.50729f0b.js"
+  ]
+}
